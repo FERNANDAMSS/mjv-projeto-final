@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 public class ControleProcessosAdvocaticiosApplication {
 	//FERNANDAMSS ok
+	
 	//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
 	public static void main(String[] args) {
 		SpringApplication.run(ControleProcessosAdvocaticiosApplication.class, args);
