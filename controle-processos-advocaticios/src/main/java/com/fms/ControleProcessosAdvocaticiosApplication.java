@@ -9,5 +9,6 @@ public class ControleProcessosAdvocaticiosApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ControleProcessosAdvocaticiosApplication.class, args);
 	}
+	
 
 }
